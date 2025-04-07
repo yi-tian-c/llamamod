@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "yitianllama-mod:item/obsidian_pickaxe"
+  }
+}

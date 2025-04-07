@@ -1,0 +1,21 @@
+{
+  "item.yitianllama-mod.obsidian_ingot": "黑曜石锭",
+  "item.yitianllama-mod.obsidian_sword": "黑曜石剑",
+  "item.yitianllama-mod.obsidian_hoe": "黑曜石锄",
+  "item.yitianllama-mod.obsidian_shovel": "黑曜石铲",
+  "item.yitianllama-mod.obsidian_axe": "黑曜石斧",
+  "item.yitianllama-mod.obsidian_pickaxe": "黑曜石镐",
+  "item.yitianllama-mod.spit": "羊驼口水",
+  "item.yitianllama-mod.exp_spit": "爆炸羊驼口水",
+  "item.yitianllama-mod.pos_spit": "剧毒羊驼口水",
+  "item.yitianllama-mod.sick_spit": "恶心羊驼口水",
+  "item.yitianllama-mod.llama_skull": "羊驼头颅",
+  "item.yitianllama-mod.llama_mate_egg":"生成羊驼法师",
+  "item.yitianllama-mod.wandering_llama_egg":"生成羊驼流浪商人",
+  "item.yitianllama-mod.villager_llama_egg":"生成爬行村民",
+  "entity.yitianllama-mod.llama_mage": "羊驼法师",
+  "entity.yitianllama-mod.wandering_llama_trader": "羊驼流浪商人",
+  "entity.yitianllama-mod.villager_llama": "爬行村民",
+  "item.yitianllama-mod.spit_extractor": "口水提取器",
+  "enchantment.yitianllama-mod.shatter": "破碎"
+}

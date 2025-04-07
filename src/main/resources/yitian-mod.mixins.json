@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "com.yi_tian.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"ExampleMixin",
+		"LivingEntityMixin",
+		"LlamaEntityMixin",
+		"UseItemMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
